@@ -48,7 +48,10 @@ USD_CPI	2020-11-27	1/1/2022  	266.1910121
 USD_CPI	2020-11-27	12/1/2049	461.5005978
 USD_CPI	2020-11-27	1/1/2050  	462.2967314
 
+References:
 
-You can find more details at
-https://finpricing.com/lib/IrInflationCurve.html
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/inflationcurve/downloads/IrInflationCurve-9.pdf
+
 
