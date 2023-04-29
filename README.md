@@ -50,8 +50,6 @@ USD_CPI	2020-11-27	1/1/2050  	462.2967314
 
 References:
 
-https://finpricing.com/lib/EqRangeAccrual.html
-
-https://bitbucket.org/cmrm11/inflationcurve/downloads/IrInflationCurve-9.pdf
+https://finpricing.com/lib/IrBasisCurve.html
 
 
